@@ -1,0 +1,139 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+img{
+	width: ;
+}
+body{
+    width: 100%;
+}
+header{
+    width: 100%;
+    box-shadow: 5px 5px 7px #e3e3e461;
+    overflow: hidden;
+}
+.container{
+    width: 1050px;
+    padding: 10px 35px;
+    margin: 0 auto;
+}
+.logo{
+    width: 20%;
+    float: left;
+    padding: 0px 98px;
+}
+.logo img{
+    width: 100px;
+    height: 70px;
+}
+nav{
+    width: 80%;
+    float: left;
+    text-align: right;
+}
+nav ul{}
+nav ul li{
+    list-style: none;
+    display: inline-block;
+}
+nav ul li a{
+    text-decoration: none;
+    padding: 17px;
+    font-size: 20px;
+    color: #166fa7;
+}
+
+section{}
+.about-section{}
+.left-info{
+    width: 50%;
+    float: left;
+    padding: 75px;
+}
+.left-info h1{
+    font-size: 38px;
+    padding: 14px;
+    text-align: left;
+}
+.left-info p{
+    font-size: 16px;
+    padding-bottom: 15px;
+    color: #00000091;
+}
+.left-info h4{
+}
+.left-info h4 a{
+    text-decoration: none;
+    font-size: 22px;
+    background-color: #000000d6;
+    color: white;
+}
+.right-info{
+    width: 50%;
+    float: left;
+    padding: 84px;
+}
+.right-info img{}
+
+.bam h3{
+    width: 50%;
+    float: left;
+    font-size: 35px;
+}
+.dan h3{
+    width: 50%;
+    float: left;
+    text-align: right;
+    font-size: 35px;
+}
+
+.info-section{}
+.row{
+}
+.col-4{
+    width: 33.33%;
+    float: left;
+}
+.col-4 img{width: 306px;padding: 20px;height: 242px;padding-top: 35px;}
+.col-4 h3{
+    font-size: 30px;
+    text-align: center;
+    padding-bottom: 10px;
+}
+.col-4 h3 a{
+    text-decoration: none;
+    color: black;
+}
+.col-4 p{
+    font-size: 15px;
+    text-align: center;
+    padding-bottom: 10px;
+    color: #0000009c;
+}
+.col-4 h2{
+    text-align: center;
+    color: black;
+    font-size: 30px;
+}
+.col-4 h5{
+    text-align: center;
+    font-size: 20px;
+    padding: 18px;
+    padding-bottom: 95px;
+}
+.col-4 h5 a{
+    text-decoration: none;
+    background-color: black;
+    color: white;
+    padding: 12px
+}
+
+.shes{}
+.shes h1{
+    
+    font-size: 45px;
+    text-align: center;
+}
+
